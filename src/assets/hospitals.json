@@ -1,0 +1,2491 @@
+[{
+	"name": "Abington Hospital - Jefferson Health",
+	"city": "Abington",
+	"county": "Montgomery",
+	"licensedBeds": "660",
+	"operatingRooms": "23",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Jefferson Health",
+	"notes": "—"
+}, {
+	"name": "Abington-Lansdale Hospital - Jefferson Health",
+	"city": "Lansdale",
+	"county": "Montgomery",
+	"licensedBeds": "140",
+	"operatingRooms": "7",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Jefferson Health",
+	"notes": "—"
+}, {
+	"name": "ACMH Hospital",
+	"city": "Kittanning",
+	"county": "Armstrong",
+	"licensedBeds": "154",
+	"operatingRooms": "8",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Advanced Surgical Hospital",
+	"city": "Washington",
+	"county": "Washington",
+	"licensedBeds": "14",
+	"operatingRooms": "4",
+	"taxStatus": "For-profit",
+	"type": "General acute specialty",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Allegheny General Hospital",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "576",
+	"operatingRooms": "39",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Allegheny Health Network",
+	"notes": "—"
+}, {
+	"name": "Allegheny Valley Hospital",
+	"city": "Natrona Heights",
+	"county": "Allegheny",
+	"licensedBeds": "228",
+	"operatingRooms": "8",
+	"taxStatus": "Non-profit",
+	"type": "General Acute",
+	"healthSystem": "Allegheny Health Network",
+	"notes": "—"
+}, {
+	"name": "Allied Services Institute of Rehab Medicine",
+	"city": "Scranton",
+	"county": "Lackawanna",
+	"licensedBeds": "82",
+	"operatingRooms": "0",
+	"taxStatus": "Non-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "Allied Services Institute of Rehab Medicine",
+	"notes": "—"
+}, {
+	"name": "Barix Clinics of Pennsylvania",
+	"city": "Langhorne",
+	"county": "Bucks",
+	"licensedBeds": "47",
+	"operatingRooms": "4",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Barnes-Kasson County Hospital",
+	"city": "Susquehanna",
+	"county": "Susquehanna",
+	"licensedBeds": "25",
+	"operatingRooms": "1",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Belmont Behavioral Hospital",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "171",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Berwick Hospital Center",
+	"city": "Berwick",
+	"county": "Columbia",
+	"licensedBeds": "101",
+	"operatingRooms": "6",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Community Health Systems",
+	"notes": "—"
+}, {
+	"name": "Bradford Regional Medical Center",
+	"city": "Bradford",
+	"county": "McKean",
+	"licensedBeds": "107",
+	"operatingRooms": "6",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Upper Allegheny Health System",
+	"notes": "Kaeida Health, part of"
+}, {
+	"name": "Brandywine Hospital",
+	"city": "Coatesville",
+	"county": "Chester",
+	"licensedBeds": "169",
+	"operatingRooms": "7",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Tower Health",
+	"notes": "—"
+}, {
+	"name": "Brooke Glen Behavioral Hospital",
+	"city": "Fort Washington",
+	"county": "Montgomery",
+	"licensedBeds": "146",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Bryn Mawr Hospital",
+	"city": "Bryn Mawr",
+	"county": "Montgomery",
+	"licensedBeds": "287",
+	"operatingRooms": "13",
+	"taxStatus": "Non-profit",
+	"type": "General Acute",
+	"healthSystem": "Main Line Health/Main Line Hospitals",
+	"notes": "—"
+}, {
+	"name": "Bryn Mawr Rehabilitation Hospital",
+	"city": "Malvern",
+	"county": "Chester",
+	"licensedBeds": "148",
+	"operatingRooms": "0",
+	"taxStatus": "Non-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "Main Line Health/Main Line Hospitals",
+	"notes": "—"
+}, {
+	"name": "Bucktail Medical Center, The",
+	"city": "Renovo",
+	"county": "Clinton",
+	"licensedBeds": "21",
+	"operatingRooms": "0",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Butler Memorial Hospital",
+	"city": "Butler",
+	"county": "Butler",
+	"licensedBeds": "296",
+	"operatingRooms": "12",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Butler Health System",
+	"notes": "—"
+}, {
+	"name": "Cancer Treatment Centers of America",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "74",
+	"operatingRooms": "5",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "On of five CTCA hospitals headquartered in Boca Raton, Florida. Formerly Eastern Regional Medical Center."
+}, {
+	"name": "Canonsburg Hospital",
+	"city": "Canonsburg",
+	"county": "Washington",
+	"licensedBeds": "104",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Allegheny Health Network",
+	"notes": "—"
+}, {
+	"name": "Chambersburg Hospital, The",
+	"city": "Chambersburg",
+	"county": "Franklin",
+	"licensedBeds": "258",
+	"operatingRooms": "11",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Summit Health",
+	"notes": "Anounced merger with WellSpan[3]"
+}, {
+	"name": "Chan Soon-Shiong Medical Center at Windber",
+	"city": "Windber",
+	"county": "Somerset",
+	"licensedBeds": "54",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Chestnut Hill Hospital",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "148",
+	"operatingRooms": "8",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Tower Health",
+	"notes": "—"
+}, {
+	"name": "Children's Home of Pittsburgh, The",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "30",
+	"operatingRooms": "—",
+	"taxStatus": "Non-profit",
+	"type": "General acute specialty",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Children's Hospital of Philadelphia",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "535",
+	"operatingRooms": "20",
+	"taxStatus": "Non-profit",
+	"type": "General acute specialty",
+	"healthSystem": "The Children's Hospital Foundation",
+	"notes": "—"
+}, {
+	"name": "Children's Institute of Pittsburgh, The",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "62",
+	"operatingRooms": "0",
+	"taxStatus": "Non-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Clarion Hospital",
+	"city": "Clarion",
+	"county": "Clarion",
+	"licensedBeds": "70",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Clarion Psychiatric Center",
+	"city": "Clarion",
+	"county": "Clarion",
+	"licensedBeds": "76",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Universal Health Services",
+	"notes": "—"
+}, {
+	"name": "Clarks Summit State Hospital",
+	"city": "Clarks Summit",
+	"county": "Lackawanna",
+	"licensedBeds": "210",
+	"operatingRooms": "0",
+	"taxStatus": "State",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Coatesville Veterans Affairs Medical Center",
+	"city": "Coatesville",
+	"county": "Chester",
+	"licensedBeds": "0",
+	"operatingRooms": "—",
+	"taxStatus": "Federal",
+	"type": "VA Hospital",
+	"healthSystem": "Veterans Integrated Service Network 4",
+	"notes": "—"
+}, {
+	"name": "Conemaugh Memorial Medical Center",
+	"city": "Johnstown",
+	"county": "Cambria",
+	"licensedBeds": "470",
+	"operatingRooms": "20",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Duke Lifepoint Healthcare",
+	"notes": "—"
+}, {
+	"name": "Conemaugh Meyersdale Medical Center",
+	"city": "Meyersdale",
+	"county": "Somerset",
+	"licensedBeds": "20",
+	"operatingRooms": "2",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Duke Lifepoint Healthcare",
+	"notes": "—"
+}, {
+	"name": "Conemaugh Miners Medical Center",
+	"city": "Hastings",
+	"county": "Cambria",
+	"licensedBeds": "25",
+	"operatingRooms": "3",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Duke Lifepoint Healthcare",
+	"notes": "—"
+}, {
+	"name": "Conemaugh Nason Medical Center",
+	"city": "Roaring Spring",
+	"county": "Blair",
+	"licensedBeds": "45",
+	"operatingRooms": "3",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Duke Lifepoint Healthcare",
+	"notes": "—"
+}, {
+	"name": "Crichton Rehabilitation Center",
+	"city": "Johnstown",
+	"county": "Cambria",
+	"licensedBeds": "39",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "Duke Lifepoint Healthcare",
+	"notes": "—"
+}, {
+	"name": "Crozer-Chester Medical Center",
+	"city": "Chester",
+	"county": "Delaware",
+	"licensedBeds": "439",
+	"operatingRooms": "24",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Prospect Medical Holdings",
+	"notes": "—"
+}, {
+	"name": "Curahealth Heritage Valley",
+	"city": "Beaver",
+	"county": "Beaver",
+	"licensedBeds": "35",
+	"operatingRooms": "2",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Independent",
+	"notes": "no part of Curahealth[4]"
+}, {
+	"name": "Danville State Hospital",
+	"city": "Danville",
+	"county": "Montour",
+	"licensedBeds": "161",
+	"operatingRooms": "0",
+	"taxStatus": "State",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Delaware County Memorial Hospital",
+	"city": "Drexel Hill",
+	"county": "Delaware",
+	"licensedBeds": "168",
+	"operatingRooms": "10",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Prospect Medical Holdings",
+	"notes": "—"
+}, {
+	"name": "Department of Veterans Affairs Medical Center-Erie",
+	"city": "Erie",
+	"county": "Erie",
+	"licensedBeds": "0",
+	"operatingRooms": "—",
+	"taxStatus": "Federal",
+	"type": "VA Hospital",
+	"healthSystem": "Veterans Integrated Service Network 4",
+	"notes": "—"
+}, {
+	"name": "Department of Veterans Affairs Medical Center-Lebanon",
+	"city": "Lebanon",
+	"county": "Lebanon",
+	"licensedBeds": "0",
+	"operatingRooms": "—",
+	"taxStatus": "Federal",
+	"type": "VA Hospital",
+	"healthSystem": "Veterans Integrated Service Network 4",
+	"notes": "—"
+}, {
+	"name": "Department of Veterans Affairs Medical Center-Philadelphia",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "0",
+	"operatingRooms": "—",
+	"taxStatus": "Federal",
+	"type": "VA Hospital",
+	"healthSystem": "Veterans Integrated Service Network 4",
+	"notes": "—"
+}, {
+	"name": "Department of Veterans Affairs Medical Center-Wilkes Barre",
+	"city": "Wilkes-Barre",
+	"county": "Luzerne",
+	"licensedBeds": "0",
+	"operatingRooms": "—",
+	"taxStatus": "Federal",
+	"type": "VA Hospital",
+	"healthSystem": "Veterans Integrated Service Network 4",
+	"notes": "—"
+}, {
+	"name": "Devereux Foundation",
+	"city": "Malvern",
+	"county": "Chester",
+	"licensedBeds": "49",
+	"operatingRooms": "0",
+	"taxStatus": "Non-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Doylestown Health",
+	"city": "Doylestown",
+	"county": "Bucks",
+	"licensedBeds": "232",
+	"operatingRooms": "9",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Eagleville Hospital",
+	"city": "Eagleville",
+	"county": "Montgomery",
+	"licensedBeds": "83",
+	"operatingRooms": "0",
+	"taxStatus": "Non-profit",
+	"type": "Drug & alcohol",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Easton Hospital",
+	"city": "Easton",
+	"county": "Northampton",
+	"licensedBeds": "254",
+	"operatingRooms": "10",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Steward Health Care System",
+	"notes": "—"
+}, {
+	"name": "Edgewood Surgical Hospital",
+	"city": "Transfer",
+	"county": "Mercer",
+	"licensedBeds": "10",
+	"operatingRooms": "4",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Einstein Medical Center Montgomery",
+	"city": "East Norriton",
+	"county": "Montgomery",
+	"licensedBeds": "171",
+	"operatingRooms": "6",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Einstein Healthcare Network",
+	"notes": "—"
+}, {
+	"name": "Einstein Medical Center-Philadelphia",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "750",
+	"operatingRooms": "23",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Einstein Healthcare Network",
+	"notes": "—"
+}, {
+	"name": "Ellwood Medical Center",
+	"city": "Ellwood City",
+	"county": "Lawrence",
+	"licensedBeds": "62",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Endless Mountains Health Systems",
+	"city": "Montrose",
+	"county": "Susquehanna",
+	"licensedBeds": "25",
+	"operatingRooms": "2",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Evangelical Community Hospital",
+	"city": "Lewisburg",
+	"county": "Union",
+	"licensedBeds": "132",
+	"operatingRooms": "8",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "Anounced partnership with Geisinger[5]"
+}, {
+	"name": "Excela Frick Hospital",
+	"city": "Mount Pleasant",
+	"county": "Westmoreland",
+	"licensedBeds": "33",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Excela Health",
+	"notes": "—"
+}, {
+	"name": "Excela Latrobe Area Hospital",
+	"city": "Latrobe",
+	"county": "Westmoreland",
+	"licensedBeds": "172",
+	"operatingRooms": "9",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Excela Health",
+	"notes": "—"
+}, {
+	"name": "Excela Westmoreland Hospital",
+	"city": "Greensburg",
+	"county": "Westmoreland",
+	"licensedBeds": "373",
+	"operatingRooms": "11",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Excela Health",
+	"notes": "—"
+}, {
+	"name": "Fairmount Behavioral Health System",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "239",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Universal Health Services",
+	"notes": "—"
+}, {
+	"name": "First Hospital Wyoming Valley",
+	"city": "Kingston",
+	"county": "Luzerne",
+	"licensedBeds": "149",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Community Health Systems",
+	"notes": "—"
+}, {
+	"name": "Forbes Hospital",
+	"city": "Monroeville",
+	"county": "Allegheny",
+	"licensedBeds": "315",
+	"operatingRooms": "12",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Allegheny Health Network",
+	"notes": "—"
+}, {
+	"name": "Foundations Behavioral Health",
+	"city": "Doylestown",
+	"county": "Bucks",
+	"licensedBeds": "60",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Universal Health Services",
+	"notes": "—"
+}, {
+	"name": "Fox Chase Cancer Center",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "100",
+	"operatingRooms": "8",
+	"taxStatus": "Non-profit",
+	"type": "General acute specialty",
+	"healthSystem": "Temple University Health System",
+	"notes": "—"
+}, {
+	"name": "Friends Hospital",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "192",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Universal Health Services",
+	"notes": "—"
+}, {
+	"name": "Fulton County Medical Center, The",
+	"city": "McConnellsburg",
+	"county": "Fulton",
+	"licensedBeds": "21",
+	"operatingRooms": "1",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Geisinger Community Medical Center",
+	"city": "Scranton",
+	"county": "Lackawanna",
+	"licensedBeds": "293",
+	"operatingRooms": "14",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Geisinger",
+	"notes": "—"
+}, {
+	"name": "Geisinger HealthSouth Rehabilitation Hospital",
+	"city": "Danville",
+	"county": "Montour",
+	"licensedBeds": "42",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "HealthSouth",
+	"notes": "—"
+}, {
+	"name": "Geisinger Holy Spirit",
+	"city": "Camp Hill",
+	"county": "Cumberland",
+	"licensedBeds": "307",
+	"operatingRooms": "18",
+	"taxStatus": "Non-Profit",
+	"type": "General acute",
+	"healthSystem": "Geisinger",
+	"notes": "—"
+}, {
+	"name": "Geisinger Jersey Shore Hospital",
+	"city": "Jersey Shore",
+	"county": "Lycoming",
+	"licensedBeds": "25",
+	"operatingRooms": "3",
+	"taxStatus": "Non-Profit",
+	"type": "General acute",
+	"healthSystem": "Geisinger",
+	"notes": "—"
+}, {
+	"name": "Geisinger Medical Center",
+	"city": "Danville",
+	"county": "Montour",
+	"licensedBeds": "540",
+	"operatingRooms": "39",
+	"taxStatus": "Non-Profit",
+	"type": "General acute",
+	"healthSystem": "Geisinger",
+	"notes": "—"
+}, {
+	"name": "Geisinger Wyoming Valley Medical Center",
+	"city": "Wilkes-Barre",
+	"county": "Luzerne",
+	"licensedBeds": "276",
+	"operatingRooms": "12",
+	"taxStatus": "Non-Profit",
+	"type": "General acute",
+	"healthSystem": "Geisinger",
+	"notes": "—"
+}, {
+	"name": "Geisinger-Bloomsburg Hospital",
+	"city": "Bloomsburg",
+	"county": "Columbia",
+	"licensedBeds": "72",
+	"operatingRooms": "5",
+	"taxStatus": "Non-Profit",
+	"type": "General acute",
+	"healthSystem": "Geisinger",
+	"notes": "—"
+}, {
+	"name": "Geisinger-Lewistown Hospital",
+	"city": "Lewistown",
+	"county": "Mifflin",
+	"licensedBeds": "123",
+	"operatingRooms": "6",
+	"taxStatus": "Non-Profit",
+	"type": "General acute",
+	"healthSystem": "Geisinger",
+	"notes": "—"
+}, {
+	"name": "Good Shepherd Penn Partners",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "38",
+	"operatingRooms": "0",
+	"taxStatus": "Non-Profit",
+	"type": "Long-term acute care",
+	"healthSystem": "The Good Shepherd Home & Rehabilitation Hospital",
+	"notes": "—"
+}, {
+	"name": "Good Shepherd Rehabilitation Network",
+	"city": "Allentown",
+	"county": "Lehigh",
+	"licensedBeds": "106",
+	"operatingRooms": "0",
+	"taxStatus": "Non-Profit",
+	"type": "Rehabilitation",
+	"healthSystem": "The Good Shepherd Home & Rehabilitation Hospital",
+	"notes": "—"
+}, {
+	"name": "Good Shepherd Specialty Hospital",
+	"city": "Bethlehem",
+	"county": "Lehigh",
+	"licensedBeds": "32",
+	"operatingRooms": "0",
+	"taxStatus": "Non-Profit",
+	"type": "Long-term acute care",
+	"healthSystem": "The Good Shepherd Home & Rehabilitation Hospital",
+	"notes": "—"
+}, {
+	"name": "Grand View Health",
+	"city": "Sellersville",
+	"county": "Bucks",
+	"licensedBeds": "194",
+	"operatingRooms": "12",
+	"taxStatus": "Non-Profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Grove City Medical Center",
+	"city": "Grove City",
+	"county": "Mercer",
+	"licensedBeds": "90",
+	"operatingRooms": "4",
+	"taxStatus": "Non-Profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Guthrie Robert Packer Hospital",
+	"city": "Sayre",
+	"county": "Bradford",
+	"licensedBeds": "254",
+	"operatingRooms": "19",
+	"taxStatus": "Non-Profit",
+	"type": "General acute",
+	"healthSystem": "Guthrie Clinic",
+	"notes": "—"
+}, {
+	"name": "Guthrie Towanda Memorial Hospital",
+	"city": "Towanda",
+	"county": "Bradford",
+	"licensedBeds": "35",
+	"operatingRooms": "3",
+	"taxStatus": "Non-Profit",
+	"type": "General acute",
+	"healthSystem": "Guthrie Clinic",
+	"notes": "—"
+}, {
+	"name": "Guthrie Troy Community Hospital",
+	"city": "Troy",
+	"county": "Bradford",
+	"licensedBeds": "25",
+	"operatingRooms": "2",
+	"taxStatus": "Non-Profit",
+	"type": "General acute",
+	"healthSystem": "Guthrie Clinic",
+	"notes": "—"
+}, {
+	"name": "Hahnemann University Hospital",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "496",
+	"operatingRooms": "24",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "American Academic Health System",
+	"notes": "Paadin Healthcare, part of"
+}, {
+	"name": "Haven Behavioral Hospital of Eastern Pennsylvania",
+	"city": "Reading",
+	"county": "Berks",
+	"licensedBeds": "67",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Haven Behavioral Healthcare",
+	"notes": "—"
+}, {
+	"name": "Haven Behavioral Hospital of Philadelphia",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "36",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Haven Behavioral Healthcare",
+	"notes": "—"
+}, {
+	"name": "HealthSouth Harmarville Rehabilitation Hospital",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "162",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "HealthSouth",
+	"notes": "—"
+}, {
+	"name": "HealthSouth Nittany Valley Rehabilitation Hospital",
+	"city": "Pleasant Gap",
+	"county": "Centre",
+	"licensedBeds": "73",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "HealthSouth",
+	"notes": "—"
+}, {
+	"name": "HealthSouth Rehabilitation Hospital of Altoona",
+	"city": "Altoona",
+	"county": "Blair",
+	"licensedBeds": "80",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "HealthSouth",
+	"notes": "—"
+}, {
+	"name": "HealthSouth Rehabilitation Hospital of Erie",
+	"city": "Erie",
+	"county": "Erie",
+	"licensedBeds": "108",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "HealthSouth",
+	"notes": "—"
+}, {
+	"name": "HealthSouth Rehabilitation Hospital of Mechanicsburg",
+	"city": "Mechanicsburg",
+	"county": "Cumberland",
+	"licensedBeds": "75",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "HealthSouth",
+	"notes": "—"
+}, {
+	"name": "HealthSouth Rehabilitation Hospital of Reading",
+	"city": "Reading",
+	"county": "Berks",
+	"licensedBeds": "60",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "HealthSouth",
+	"notes": "—"
+}, {
+	"name": "HealthSouth Rehabilitation Hospital of Sewickley",
+	"city": "Sewickley",
+	"county": "Allegheny",
+	"licensedBeds": "44",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "HealthSouth",
+	"notes": "—"
+}, {
+	"name": "HealthSouth Rehabilitation Hospital of York",
+	"city": "York",
+	"county": "York",
+	"licensedBeds": "90",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "HealthSouth",
+	"notes": "—"
+}, {
+	"name": "Helen M. Simpson Rehabilitation Hospital",
+	"city": "Harrisburg",
+	"county": "Dauphin",
+	"licensedBeds": "55",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "Select Medical",
+	"notes": "—"
+}, {
+	"name": "Heritage Valley Beaver",
+	"city": "Beaver",
+	"county": "Beaver",
+	"licensedBeds": "285",
+	"operatingRooms": "14",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Heritage Valley Health System",
+	"notes": "—"
+}, {
+	"name": "Heritage Valley Sewickley",
+	"city": "Sewickley",
+	"county": "Allegheny",
+	"licensedBeds": "176",
+	"operatingRooms": "8",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Heritage Valley Health System",
+	"notes": "—"
+}, {
+	"name": "Highlands Hospital",
+	"city": "Connellsville",
+	"county": "Fayette",
+	"licensedBeds": "64",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Holy Redeemer Hospital",
+	"city": "Meadowbrook",
+	"county": "Montgomery",
+	"licensedBeds": "242",
+	"operatingRooms": "11",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Holy Redeemer Health System",
+	"notes": "—"
+}, {
+	"name": "Horsham Clinic, The",
+	"city": "Ambler",
+	"county": "Montgomery",
+	"licensedBeds": "206",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Universal Health Services",
+	"notes": "—"
+}, {
+	"name": "Hospital of the University of Pennsylvania",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "790",
+	"operatingRooms": "37",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "University of Pennsylvania Health System",
+	"notes": "—"
+}, {
+	"name": "Indiana Regional Medical Center",
+	"city": "Indiana",
+	"county": "Indiana",
+	"licensedBeds": "166",
+	"operatingRooms": "7",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "James E. Van Zandt Veterans Affairs Medical Center",
+	"city": "Altoona",
+	"county": "Blair",
+	"licensedBeds": "0",
+	"operatingRooms": "—",
+	"taxStatus": "Federal",
+	"type": "VA Hospital",
+	"healthSystem": "Veterans Integrated Service Network 4",
+	"notes": "—"
+}, {
+	"name": "JC Blair Memorial Hospital",
+	"city": "Huntingdon",
+	"county": "Huntingdon",
+	"licensedBeds": "62",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "Afiliate of UPMC Pinnacle (minority interest) until September 30, 2018.[6] Announced letter of intent to pursue partnership with Post Acute Medical LLC.[7]"
+}, {
+	"name": "Jeanes Hospital",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "146",
+	"operatingRooms": "9",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Temple University Health System",
+	"notes": "—"
+}, {
+	"name": "Jefferson Health Northeast",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "464",
+	"operatingRooms": "29",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Jefferson Health",
+	"notes": "—"
+}, {
+	"name": "Jefferson Hospital",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "341",
+	"operatingRooms": "13",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Allegheny Health Network",
+	"notes": "—"
+}, {
+	"name": "Jennersville Hospital",
+	"city": "West Grove",
+	"county": "Chester",
+	"licensedBeds": "63",
+	"operatingRooms": "5",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Tower Health",
+	"notes": "—"
+}, {
+	"name": "John Heinz Institute of Rehab Medicine",
+	"city": "Wilkes-Barre",
+	"county": "Luzerne",
+	"licensedBeds": "61",
+	"operatingRooms": "0",
+	"taxStatus": "Non-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "Allied Services Institute of Rehab Medicine",
+	"notes": "—"
+}, {
+	"name": "Kensington Hospital",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "45",
+	"operatingRooms": "0",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "KidsPeace",
+	"city": "Orefield",
+	"county": "Lehigh",
+	"licensedBeds": "120",
+	"operatingRooms": "0",
+	"taxStatus": "Non-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Kindred Hospital Philadelphia",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "52",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Kindred Healthcare",
+	"notes": "—"
+}, {
+	"name": "Kindred Hospital Philadelphia - Havertown",
+	"city": "Havertown",
+	"county": "Delaware",
+	"licensedBeds": "57",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Kindred Healthcare",
+	"notes": "—"
+}, {
+	"name": "Kindred Hospital Pittsburgh",
+	"city": "Oakdale",
+	"county": "Allegheny",
+	"licensedBeds": "63",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Kindred Healthcare",
+	"notes": "no Curahealth[4]"
+}, {
+	"name": "Kindred Hospital South Philadelphia",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "58",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Kindred Healthcare",
+	"notes": "—"
+}, {
+	"name": "Kirkbride Center",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "25",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Lancaster General Hospital",
+	"city": "Lancaster",
+	"county": "Lancaster",
+	"licensedBeds": "604",
+	"operatingRooms": "40",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "University of Pennsylvania Health System",
+	"notes": "—"
+}, {
+	"name": "Lancaster Rehabilitation Hospital",
+	"city": "Lancaster",
+	"county": "Lancaster",
+	"licensedBeds": "59",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "University of Pennsylvania Health System",
+	"notes": "—"
+}, {
+	"name": "Lankenau Medical Center",
+	"city": "Wynnewood",
+	"county": "Montgomery",
+	"licensedBeds": "370",
+	"operatingRooms": "19",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Main Line Health/Main Line Hospitals",
+	"notes": "—"
+}, {
+	"name": "LECOM Health - Corry Memorial Hospital",
+	"city": "Corry",
+	"county": "Erie",
+	"licensedBeds": "20",
+	"operatingRooms": "2",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "LECOM Health - Millcreek Community Hospital",
+	"notes": "—"
+}, {
+	"name": "LECOM Health - Millcreek Community Hospital",
+	"city": "Erie",
+	"county": "Erie",
+	"licensedBeds": "144",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "LECOM Health - Millcreek Community Hospital",
+	"notes": "—"
+}, {
+	"name": "Lehigh Valley Hospital",
+	"city": "Allentown",
+	"county": "Lehigh",
+	"licensedBeds": "877",
+	"operatingRooms": "46",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Lehigh Valley Health Network",
+	"notes": "—"
+}, {
+	"name": "Lehigh Valley Hospital - Hazelton",
+	"city": "Hazleton",
+	"county": "Luzerne",
+	"licensedBeds": "150",
+	"operatingRooms": "6",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Lehigh Valley Health Network",
+	"notes": "—"
+}, {
+	"name": "Lehigh Valley Hospital - Muhlenberg",
+	"city": "Bethlehem",
+	"county": "Lehigh",
+	"licensedBeds": "194",
+	"operatingRooms": "8",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Lehigh Valley Health Network",
+	"notes": "—"
+}, {
+	"name": "Lehigh Valley Hospital - Pocono",
+	"city": "East Stroudsburg",
+	"county": "Monroe",
+	"licensedBeds": "239",
+	"operatingRooms": "11",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Lehigh Valley Health Network",
+	"notes": "—"
+}, {
+	"name": "Lehigh Valley Hospital - Schuylkill East Norwegian Street",
+	"city": "Pottsville",
+	"county": "Schuylkill",
+	"licensedBeds": "126",
+	"operatingRooms": "8",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Lehigh Valley Health Network",
+	"notes": "—"
+}, {
+	"name": "Lehigh Valley Hospital - Schuylkill South Jackson Street",
+	"city": "Pottsville",
+	"county": "Schuylkill",
+	"licensedBeds": "179",
+	"operatingRooms": "11",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Lehigh Valley Health Network",
+	"notes": "—"
+}, {
+	"name": "Lifecare Behavioral Health Hospital",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "49",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Lifecare Hospital of Pittsburgh",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "80",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Lifecare Hospital of Chester County",
+	"city": "West Chester",
+	"county": "Chester",
+	"licensedBeds": "39",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Lifecare Hospital of Mechanicsburg",
+	"city": "Mechanicsburg",
+	"county": "Cumberland",
+	"licensedBeds": "68",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Lower Bucks Hospital, The",
+	"city": "Bristol",
+	"county": "Bucks",
+	"licensedBeds": "175",
+	"operatingRooms": "6",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Prime Healthcare Services",
+	"notes": "—"
+}, {
+	"name": "Magee Rehabilitation Hospital",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "96",
+	"operatingRooms": "0",
+	"taxStatus": "Non-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Meadows Psychiatric Center, The",
+	"city": "Centre Hall",
+	"county": "Centre",
+	"licensedBeds": "107",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Universal Health Services",
+	"notes": "—"
+}, {
+	"name": "Meadville Medical Center",
+	"city": "Meadville",
+	"county": "Crawford",
+	"licensedBeds": "217",
+	"operatingRooms": "12",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Meadville Medical Center",
+	"notes": "—"
+}, {
+	"name": "Mercy Fitzgerald Hospital",
+	"city": "Darby",
+	"county": "Delaware",
+	"licensedBeds": "174",
+	"operatingRooms": "9",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Trinity Health",
+	"notes": "—"
+}, {
+	"name": "Mercy Philadelphia Hospital",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "157",
+	"operatingRooms": "5",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Trinity Health",
+	"notes": "—"
+}, {
+	"name": "Monongahela Valley Hospital",
+	"city": "Monongahela",
+	"county": "Washington",
+	"licensedBeds": "200",
+	"operatingRooms": "13",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Montgomery County Emergency Service",
+	"city": "Norristown",
+	"county": "Montgomery",
+	"licensedBeds": "81",
+	"operatingRooms": "0",
+	"taxStatus": "Non-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Moses Taylor Hospital",
+	"city": "Scranton",
+	"county": "Lackawanna",
+	"licensedBeds": "213",
+	"operatingRooms": "7",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Community Health Systems",
+	"notes": "—"
+}, {
+	"name": "Mount Nittany Medical Center",
+	"city": "State College",
+	"county": "Centre",
+	"licensedBeds": "260",
+	"operatingRooms": "12",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Nazareth Hospital",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "203",
+	"operatingRooms": "9",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Trinity Health",
+	"notes": "—"
+}, {
+	"name": "New Lifecare Hospitals of PGH - Alle-Kiski",
+	"city": "Natrona",
+	"county": "Allegheny",
+	"licensedBeds": "35",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "New Lifecare Hospitals of PGH - Suburban",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "32",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Norristown State Hospital",
+	"city": "Norristown",
+	"county": "Montgomery",
+	"licensedBeds": "259",
+	"operatingRooms": "0",
+	"taxStatus": "State",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Ohio Valley Hospital",
+	"city": "McKees Rocks",
+	"county": "Allegheny",
+	"licensedBeds": "124",
+	"operatingRooms": "6",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "Anounced affiliation with Heritage Valley Health System.[8]"
+}, {
+	"name": "OSS Health",
+	"city": "York",
+	"county": "York",
+	"licensedBeds": "26",
+	"operatingRooms": "8",
+	"taxStatus": "For-profit",
+	"type": "General acute specialty",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Paoli Hospital",
+	"city": "Paoli",
+	"county": "Chester",
+	"licensedBeds": "231",
+	"operatingRooms": "14",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Main Line Health/Main Line Hospitals",
+	"notes": "—"
+}, {
+	"name": "Penn Highlands Brookville",
+	"city": "Brookville",
+	"county": "Jefferson",
+	"licensedBeds": "35",
+	"operatingRooms": "3",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Penn Highlands Healthcare",
+	"notes": "—"
+}, {
+	"name": "Penn Highlands Clearfield",
+	"city": "Clearfield",
+	"county": "Clearfield",
+	"licensedBeds": "96",
+	"operatingRooms": "5",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Penn Highlands Healthcare",
+	"notes": "—"
+}, {
+	"name": "Penn Highlands DuBois",
+	"city": "DuBois",
+	"county": "Clearfield",
+	"licensedBeds": "219",
+	"operatingRooms": "11",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Penn Highlands Healthcare",
+	"notes": "—"
+}, {
+	"name": "Penn Highlands Elk",
+	"city": "St. Marys",
+	"county": "Elk",
+	"licensedBeds": "35",
+	"operatingRooms": "6",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Penn Highlands Healthcare",
+	"notes": "—"
+}, {
+	"name": "Penn Medicine Chester County Hospital",
+	"city": "West Chester",
+	"county": "Chester",
+	"licensedBeds": "248",
+	"operatingRooms": "12",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "University of Pennsylvania Health System",
+	"notes": "—"
+}, {
+	"name": "Penn Presbyterian Medical Center",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "350",
+	"operatingRooms": "20",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "University of Pennsylvania Health System",
+	"notes": "—"
+}, {
+	"name": "Penn State Health St. Joseph",
+	"city": "Reading",
+	"county": "Berks",
+	"licensedBeds": "204",
+	"operatingRooms": "9",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Penn State Milton S. Hershey Medical Center",
+	"notes": "—"
+}, {
+	"name": "Penn State Hershey Rehabilitation Hospital",
+	"city": "Hummelstown",
+	"county": "Dauphin",
+	"licensedBeds": "76",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Penn State Milton S. Hershey Medical Center",
+	"city": "Hershey",
+	"county": "Dauphin",
+	"licensedBeds": "548",
+	"operatingRooms": "34",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Penn State Milton S. Hershey Medical Center",
+	"notes": "—"
+}, {
+	"name": "Pennsylvania Hospital",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "461",
+	"operatingRooms": "28",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "University of Pennsylvania Health System",
+	"notes": "—"
+}, {
+	"name": "Pennsylvania Psychiatric Institute",
+	"city": "Harrisburg",
+	"county": "Dauphin",
+	"licensedBeds": "89",
+	"operatingRooms": "0",
+	"taxStatus": "Non-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "Colaboration between Penn State Health and UPMC Pinnacle"
+}, {
+	"name": "Philhaven",
+	"city": "Mt. Gretna",
+	"county": "Lebanon",
+	"licensedBeds": "103",
+	"operatingRooms": "0",
+	"taxStatus": "Non-profit",
+	"type": "Psychiatric",
+	"healthSystem": "WellSpan Health",
+	"notes": "—"
+}, {
+	"name": "Phoenixville Health",
+	"city": "Phoenixville",
+	"county": "Chester",
+	"licensedBeds": "151",
+	"operatingRooms": "8",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Tower Health",
+	"notes": "—"
+}, {
+	"name": "Physicians Care Surgical Hospital",
+	"city": "Royersford",
+	"county": "Montgomery",
+	"licensedBeds": "12",
+	"operatingRooms": "5",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Pottstown Hospital",
+	"city": "Pottstown",
+	"county": "Montgomery",
+	"licensedBeds": "232",
+	"operatingRooms": "9",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Tower Health",
+	"notes": "—"
+}, {
+	"name": "Punxsutawney Area Hospital",
+	"city": "Punxsutawney",
+	"county": "Jefferson",
+	"licensedBeds": "49",
+	"operatingRooms": "5",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Reading Hospital",
+	"city": "Reading",
+	"county": "Berks",
+	"licensedBeds": "714",
+	"operatingRooms": "27",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Tower Health",
+	"notes": "—"
+}, {
+	"name": "Regional Hospital of Scranton",
+	"city": "Scranton",
+	"county": "Lackawanna",
+	"licensedBeds": "186",
+	"operatingRooms": "9",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Community Health Systems",
+	"notes": "—"
+}, {
+	"name": "Riddle Hospital",
+	"city": "Media",
+	"county": "Delaware",
+	"licensedBeds": "204",
+	"operatingRooms": "12",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Main Line Health/Main Line Hospitals",
+	"notes": "—"
+}, {
+	"name": "Rothman Orthopaedic Specialty Hospital",
+	"city": "Bensalem",
+	"county": "Bucks",
+	"licensedBeds": "24",
+	"operatingRooms": "6",
+	"taxStatus": "For-profit",
+	"type": "General acute specialty",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Roxborough Memorial Hospital",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "141",
+	"operatingRooms": "4",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Prime Healthcare Services",
+	"notes": "—"
+}, {
+	"name": "Roxbury Treatment Center",
+	"city": "Shippensburg",
+	"county": "Franklin",
+	"licensedBeds": "112",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Universal Health Services",
+	"notes": "—"
+}, {
+	"name": "Saint John Vianney Hospital",
+	"city": "Downingtown",
+	"county": "Chester",
+	"licensedBeds": "50",
+	"operatingRooms": "0",
+	"taxStatus": "Non-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Saint Vincent Hospital",
+	"city": "Erie",
+	"county": "Erie",
+	"licensedBeds": "371",
+	"operatingRooms": "15",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Allegheny Health Network",
+	"notes": "—"
+}, {
+	"name": "SCI-Waymart Forensic Treatment Center",
+	"city": "Waymart",
+	"county": "Wayne",
+	"licensedBeds": "90",
+	"operatingRooms": "0",
+	"taxStatus": "State",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Select Specialty Hospital - Camp Hill",
+	"city": "Camp Hill",
+	"county": "Cumberland",
+	"licensedBeds": "31",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Select Medical",
+	"notes": "—"
+}, {
+	"name": "Select Specialty Hospital - Danville",
+	"city": "Danville",
+	"county": "Montour",
+	"licensedBeds": "30",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Select Medical",
+	"notes": "—"
+}, {
+	"name": "Select Specialty Hospital - Erie",
+	"city": "Erie",
+	"county": "Erie",
+	"licensedBeds": "50",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Select Medical",
+	"notes": "—"
+}, {
+	"name": "Select Specialty Hospital - Harrisburg",
+	"city": "Harrisburg",
+	"county": "Dauphin",
+	"licensedBeds": "38",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Select Medical",
+	"notes": "—"
+}, {
+	"name": "Select Specialty Hospital - Johnstown",
+	"city": "Johnstown",
+	"county": "Cambria",
+	"licensedBeds": "39",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Select Medical",
+	"notes": "—"
+}, {
+	"name": "Select Specialty Hospital - Laurel Highlands",
+	"city": "Latrobe",
+	"county": "Westmoreland",
+	"licensedBeds": "40",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Select Medical",
+	"notes": "—"
+}, {
+	"name": "Select Specialty Hospital - McKeesport",
+	"city": "McKeesport",
+	"county": "Allegheny",
+	"licensedBeds": "30",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Select Medical",
+	"notes": "—"
+}, {
+	"name": "Select Specialty Hospital - Pittsburgh UPMC",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "32",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Select Medical",
+	"notes": "—"
+}, {
+	"name": "Select Specialty Hospital - York",
+	"city": "York",
+	"county": "York",
+	"licensedBeds": "23",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Select Medical",
+	"notes": "—"
+}, {
+	"name": "Sharon Regional Medical Center",
+	"city": "Sharon",
+	"county": "Mercer",
+	"licensedBeds": "220",
+	"operatingRooms": "12",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Steward Health Care System",
+	"notes": "—"
+}, {
+	"name": "Shriners Hospitals for Children - Philadelphia",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "53",
+	"operatingRooms": "3",
+	"taxStatus": "Non-profit",
+	"type": "General acute specialty",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Somerset Hospital",
+	"city": "Somerset",
+	"county": "Somerset",
+	"licensedBeds": "111",
+	"operatingRooms": "5",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "Anounced affiliation with UPMC.[9]"
+}, {
+	"name": "Southwood Psychiatric Hospital",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "68",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Special Care Hospital",
+	"city": "Wilkes-Barre",
+	"county": "Luzerne",
+	"licensedBeds": "66",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Long-term acute care",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "St. Christopher's Hospital for Children",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "189",
+	"operatingRooms": "11",
+	"taxStatus": "For-profit",
+	"type": "General acute specialty",
+	"healthSystem": "American Academic Health System",
+	"notes": "Paadin Healthcare, part of"
+}, {
+	"name": "St. Clair Hospital",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "328",
+	"operatingRooms": "13",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "St. Luke's Anderson Campus",
+	"city": "Easton",
+	"county": "Northampton",
+	"licensedBeds": "108",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "St. Luke's University Health Network",
+	"notes": "—"
+}, {
+	"name": "St. Luke's Bethlehem Campus",
+	"city": "Bethlehem",
+	"county": "Lehigh",
+	"licensedBeds": "550",
+	"operatingRooms": "21",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "St. Luke's University Health Network",
+	"notes": "—"
+}, {
+	"name": "St. Luke's Gnaden Huetten Campus",
+	"city": "Lehighton",
+	"county": "Carbon",
+	"licensedBeds": "159",
+	"operatingRooms": "6",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "St. Luke's University Health Network",
+	"notes": "—"
+}, {
+	"name": "St. Luke's Miners Campus",
+	"city": "Coaldale",
+	"county": "Schuylkill",
+	"licensedBeds": "44",
+	"operatingRooms": "3",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "St. Luke's University Health Network",
+	"notes": "—"
+}, {
+	"name": "St. Luke's Quakertown Campus",
+	"city": "Quakertown",
+	"county": "Bucks",
+	"licensedBeds": "62",
+	"operatingRooms": "3",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "St. Luke's University Health Network",
+	"notes": "—"
+}, {
+	"name": "St. Luke's Sacred Heart Campus",
+	"city": "Allentown",
+	"county": "Lehigh",
+	"licensedBeds": "148",
+	"operatingRooms": "13",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "no part of St. Luke's University Health Network[10]"
+}, {
+	"name": "St. Mary Medical Center",
+	"city": "Langhorne",
+	"county": "Bucks",
+	"licensedBeds": "373",
+	"operatingRooms": "19",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Trinity Health",
+	"notes": "—"
+}, {
+	"name": "St. Mary Rehabilitation Hospital",
+	"city": "Langhorne",
+	"county": "Bucks",
+	"licensedBeds": "50",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "Trinity Health",
+	"notes": "—"
+}, {
+	"name": "Suburban Community Hospital",
+	"city": "East Norriton",
+	"county": "Montgomery",
+	"licensedBeds": "126",
+	"operatingRooms": "6",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Prime Healthcare Services",
+	"notes": "—"
+}, {
+	"name": "Surgical Institute of Reading",
+	"city": "Wyomissing",
+	"county": "Berks",
+	"licensedBeds": "15",
+	"operatingRooms": "4",
+	"taxStatus": "For-profit",
+	"type": "General acute specialty",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Surgical Specialty Center at Coordinated Health",
+	"city": "Bethlehem",
+	"county": "Northampton",
+	"licensedBeds": "20",
+	"operatingRooms": "—",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Surgical Specialty Hospital-Coordinated Hlth",
+	"city": "Allentown",
+	"county": "Lehigh",
+	"licensedBeds": "20",
+	"operatingRooms": "6",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Temple University Hospital",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "733",
+	"operatingRooms": "23",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Temple University Health System",
+	"notes": "—"
+}, {
+	"name": "Thomas Jefferson University Hospital",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "937",
+	"operatingRooms": "63",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Jefferson Health",
+	"notes": "—"
+}, {
+	"name": "Titusville Area Hospital",
+	"city": "Titusville",
+	"county": "Crawford",
+	"licensedBeds": "25",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Meadville Medical Center",
+	"notes": "—"
+}, {
+	"name": "Torrance State Hospital",
+	"city": "Torrance",
+	"county": "Westmoreland",
+	"licensedBeds": "356",
+	"operatingRooms": "0",
+	"taxStatus": "State",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Tyler Memorial Hospital",
+	"city": "Tunkhannock",
+	"county": "Wyoming",
+	"licensedBeds": "44",
+	"operatingRooms": "3",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Community Health Systems",
+	"notes": "—"
+}, {
+	"name": "Tyrone Regional Health Network",
+	"city": "Tyrone",
+	"county": "Blair",
+	"licensedBeds": "25",
+	"operatingRooms": "3",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Uniontown Hospital",
+	"city": "Uniontown",
+	"county": "Fayette",
+	"licensedBeds": "171",
+	"operatingRooms": "8",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "UPMC Altoona",
+	"city": "Altoona",
+	"county": "Blair",
+	"licensedBeds": "361",
+	"operatingRooms": "17",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Bedford Memorial",
+	"city": "Everett",
+	"county": "Bedford",
+	"licensedBeds": "49",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Children's Hospital of Pittsburgh",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "315",
+	"operatingRooms": "13",
+	"taxStatus": "Non-profit",
+	"type": "General acute specialty",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Cole",
+	"city": "Coudersport",
+	"county": "Potter",
+	"licensedBeds": "59",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC East",
+	"city": "Monroeville",
+	"county": "Allegheny",
+	"licensedBeds": "155",
+	"operatingRooms": "7",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Hamot",
+	"city": "Erie",
+	"county": "Erie",
+	"licensedBeds": "423",
+	"operatingRooms": "22",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Horizon",
+	"city": "Greenville",
+	"county": "Mercer",
+	"licensedBeds": "158",
+	"operatingRooms": "11",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Jameson",
+	"city": "New Castle",
+	"county": "Lawrence",
+	"licensedBeds": "207",
+	"operatingRooms": "10",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Kane",
+	"city": "Kane",
+	"county": "McKean",
+	"licensedBeds": "31",
+	"operatingRooms": "3",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Magee-Womens Hospital",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "383",
+	"operatingRooms": "14",
+	"taxStatus": "Non-profit",
+	"type": "Maternity",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC McKeesport",
+	"city": "McKeesport",
+	"county": "Allegheny",
+	"licensedBeds": "222",
+	"operatingRooms": "11",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Mercy",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "495",
+	"operatingRooms": "23",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Muncy Valley Hospital",
+	"city": "Muncy",
+	"county": "Lycoming",
+	"licensedBeds": "20",
+	"operatingRooms": "3",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "Alo known as UPMC Susquehanna Muncy."
+}, {
+	"name": "UPMC Northwest",
+	"city": "Seneca",
+	"county": "Venango",
+	"licensedBeds": "158",
+	"operatingRooms": "8",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Passavant",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "423",
+	"operatingRooms": "25",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Pinnacle",
+	"city": "Harrisburg",
+	"county": "Dauphin",
+	"licensedBeds": "627",
+	"operatingRooms": "36",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Pinnacle Carlisle",
+	"city": "Carlisle",
+	"county": "Cumberland",
+	"licensedBeds": "159",
+	"operatingRooms": "7",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "no Non-profit[11]"
+}, {
+	"name": "UPMC Pinnacle Hanover",
+	"city": "Hanover",
+	"county": "York",
+	"licensedBeds": "93",
+	"operatingRooms": "10",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Pinnacle Lancaster",
+	"city": "Lancaster",
+	"county": "Lancaster",
+	"licensedBeds": "214",
+	"operatingRooms": "11",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "no Non-profit[11]"
+}, {
+	"name": "UPMC Pinnacle Lititz",
+	"city": "Lititz",
+	"county": "Lancaster",
+	"licensedBeds": "148",
+	"operatingRooms": "6",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "no Non-profit[11]"
+}, {
+	"name": "UPMC Pinnacle Memorial",
+	"city": "York",
+	"county": "York",
+	"licensedBeds": "100",
+	"operatingRooms": "5",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Presbyterian",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "1577",
+	"operatingRooms": "77",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC St. Margaret",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "248",
+	"operatingRooms": "13",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Susquehanna Divine Providence Hospital",
+	"city": "Williamsport",
+	"county": "Lycoming",
+	"licensedBeds": "31",
+	"operatingRooms": "6",
+	"taxStatus": "Non-profit",
+	"type": "Psychiatric",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Susquehanna Lock Haven",
+	"city": "Lock Haven",
+	"county": "Clinton",
+	"licensedBeds": "47",
+	"operatingRooms": "4",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Susquehanna Soldiers + Sailors Memorial Hospital",
+	"city": "Wellsboro",
+	"county": "Tioga",
+	"licensedBeds": "25",
+	"operatingRooms": "6",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Susquehanna Sunbury",
+	"city": "Sunbury",
+	"county": "Northumberland",
+	"licensedBeds": "70",
+	"operatingRooms": "3",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "UPMC Susquehanna Williamsport",
+	"city": "Williamsport",
+	"county": "Lycoming",
+	"licensedBeds": "224",
+	"operatingRooms": "20",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "UPMC",
+	"notes": "—"
+}, {
+	"name": "Valley Forge Medial Center & Hospital",
+	"city": "Norristown",
+	"county": "Montgomery",
+	"licensedBeds": "50",
+	"operatingRooms": "0",
+	"taxStatus": "For-profit",
+	"type": "Drug & alcohol",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Veterans Affairs Pittsburgh Healthcare System",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "0",
+	"operatingRooms": "—",
+	"taxStatus": "Federal",
+	"type": "VA Hospital",
+	"healthSystem": "Veterans Integrated Service Network 4",
+	"notes": "—"
+}, {
+	"name": "Warren General Hospital",
+	"city": "Warren",
+	"county": "Warren",
+	"licensedBeds": "85",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "anounced affiliation with Allegheny Health Network and LECOM Health (minority interests)[12]"
+}, {
+	"name": "Warren State Hospital",
+	"city": "North Warren",
+	"county": "Warren",
+	"licensedBeds": "152",
+	"operatingRooms": "0",
+	"taxStatus": "State",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Washington Health System",
+	"city": "Washington",
+	"county": "Washington",
+	"licensedBeds": "260",
+	"operatingRooms": "8",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Washington Health System",
+	"notes": "—"
+}, {
+	"name": "Washington Health System Greene",
+	"city": "Waynesburg",
+	"county": "Greene",
+	"licensedBeds": "49",
+	"operatingRooms": "3",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Washington Health System",
+	"notes": "—"
+}, {
+	"name": "Wayne Memorial Hospital",
+	"city": "Honesdale",
+	"county": "Wayne",
+	"licensedBeds": "112",
+	"operatingRooms": "3",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "Waynesboro Hospital",
+	"city": "Waynesboro",
+	"county": "Franklin",
+	"licensedBeds": "56",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Summit Health",
+	"notes": "Anounced merger with WellSpan[3]"
+}, {
+	"name": "WellSpan Ephrata Community Hospital",
+	"city": "Ephrata",
+	"county": "Lancaster",
+	"licensedBeds": "130",
+	"operatingRooms": "11",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "WellSpan Health",
+	"notes": "—"
+}, {
+	"name": "WellSpan Gettysburg Hospital",
+	"city": "Gettysburg",
+	"county": "Adams",
+	"licensedBeds": "76",
+	"operatingRooms": "5",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "WellSpan Health",
+	"notes": "—"
+}, {
+	"name": "WellSpan Good Samaritan Hospital",
+	"city": "Lebanon",
+	"county": "Lebanon",
+	"licensedBeds": "170",
+	"operatingRooms": "11",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "WellSpan Health",
+	"notes": "—"
+}, {
+	"name": "WellSpan Surgery & Rehabilitation Hospital",
+	"city": "York",
+	"county": "York",
+	"licensedBeds": "73",
+	"operatingRooms": "4",
+	"taxStatus": "Non-profit",
+	"type": "Rehabilitation",
+	"healthSystem": "WellSpan Health",
+	"notes": "—"
+}, {
+	"name": "WellSpan York Hospital",
+	"city": "York",
+	"county": "York",
+	"licensedBeds": "580",
+	"operatingRooms": "18",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "WellSpan Health",
+	"notes": "—"
+}, {
+	"name": "Wernersville State Hospital",
+	"city": "Wernersville",
+	"county": "Berks",
+	"licensedBeds": "266",
+	"operatingRooms": "0",
+	"taxStatus": "State",
+	"type": "Psychiatric",
+	"healthSystem": "Independent",
+	"notes": "—"
+}, {
+	"name": "West Penn Hospital",
+	"city": "Pittsburgh",
+	"county": "Allegheny",
+	"licensedBeds": "317",
+	"operatingRooms": "19",
+	"taxStatus": "Non-profit",
+	"type": "General acute",
+	"healthSystem": "Allegheny Health Network",
+	"notes": "—"
+}, {
+	"name": "Wilkes-Barre General Hospital",
+	"city": "Wilkes-Barre",
+	"county": "Luzerne",
+	"licensedBeds": "412",
+	"operatingRooms": "15",
+	"taxStatus": "For-profit",
+	"type": "General acute",
+	"healthSystem": "Community Health Systems",
+	"notes": "—"
+}, {
+	"name": "Wills Eye Hospital",
+	"city": "Philadelphia",
+	"county": "Philadelphia",
+	"licensedBeds": "4",
+	"operatingRooms": "8",
+	"taxStatus": "City",
+	"type": "Eye, ear, nose & throat",
+	"healthSystem": "Independent",
+	"notes": "—"
+}]

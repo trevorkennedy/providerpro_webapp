@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://providerpro.com/sitemap.xml

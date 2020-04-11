@@ -1,0 +1,140 @@
+.step-container {
+	position: relative;
+	min-height: 640px;
+	border-bottom: 1px solid #fff;
+}
+.process-step {
+	position: absolute;
+	left: 0%;
+	width: 100%;
+	transition: all .5s;
+	height: 100%;
+}
+.searching {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	background: rgba(0, 0, 0, .2);
+	z-index: 2;
+	display: flex;
+	align-items: center;
+	text-align: center;
+}
+.process-step.next {
+	left: 100%;
+}
+.process-step.done {
+	left: -100%;
+}
+.typeahead-container {
+	position: relative;
+}
+.typeahead-results {
+	position: absolute;
+	top: 100%;
+	left: 0px;
+	right: 0px;
+	max-height: 300px;
+	z-index: 2;
+	overflow: auto;
+	background: #ffffff;
+	border: 1px solid #ddd;
+}
+.typeahead-result {
+	border-bottom: 1px solid #ddd;
+	padding: 12px;
+
+	.title {
+
+	}
+	.subtitle {
+
+	}
+
+}
+.typeahead-result:hover {
+	background: #efefef;
+	cursor: pointer;
+}
+.providers {
+	.col {
+		cursor: pointer;
+		opacity: .3;
+		transition: .2s all;
+		display: flex;
+		align-items: center;
+
+		img {
+			flex-grow: 1;
+		}
+	}
+	.col:hover {
+		opacity: 1;
+	}
+}
+
+.providers {
+	.col {
+		.checkmark-container {
+			display: block;
+			position: relative;
+			padding-left: 35px;
+			margin-left: 20px;
+			margin-bottom: 12px;
+			cursor: pointer;
+			font-size: 22px;
+			user-select: none;
+		}
+		.checkmark-container input {
+			position: absolute;
+			opacity: 0;
+			cursor: pointer;
+			height: 0;
+			width: 0;
+		}
+		.checkmark {
+			position: absolute;
+			top: 0;
+			left: 0;
+			height: 25px;
+			width: 25px;
+			background-color: #eee;
+		}
+		.checkmark-container:hover input ~ .checkmark {
+			background-color: #ccc;
+		}
+		.checkmark-container input:checked ~ .checkmark {
+			background-color: #2196F3;
+		}
+		.checkmark:after {
+			content: "";
+			position: absolute;
+			display: none;
+		}
+		.checkmark-container input:checked ~ .checkmark:after {
+			display: block;
+		}
+		.checkmark-container .checkmark:after {
+			left: 9px;
+			top: 5px;
+			width: 5px;
+			height: 10px;
+			border: solid white;
+			border-width: 0 3px 3px 0;
+			-webkit-transform: rotate(45deg);
+			-ms-transform: rotate(45deg);
+			transform: rotate(45deg);
+		}
+	}
+	.col.selected {
+		opacity: 1;
+	}
+}
+
+@media (max-width: 767.98px) {
+	.step-container {
+		min-height: 1040px;
+	}
+}

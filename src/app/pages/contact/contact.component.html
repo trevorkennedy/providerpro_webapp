@@ -1,0 +1,42 @@
+<section class="features-section py-5">
+	<div class="container py-lg-5">
+		<h3 class="mb-3 text-center font-weight-bold section-heading">Contact</h3>
+		<div class="row pt-5 mb-5">
+
+			<div class="col-12 col-md-6 col-xl-5 pr-xl-3 pt-md-3">
+				<div class="card rounded border-0 shadow-lg  mb-5">
+					<div class="card-body p-4">
+						<h5 class="card-title">We're excited to hear from you</h5>
+						<p class="card-text">We're open to hearing all of questions, comments, and jokes. Let us know how we can help you and we'll be in touch in a jiffy.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-12 col-md-6 col-xl-5 offset-xl-1">
+				<div class="form-group">
+					<label for="">Name *</label>
+					<input type="text" class="form-control" [(ngModel)]="contact.name" />
+				</div>
+				<div class="form-group">
+					<label for="">Email *</label>
+					<input type="text" class="form-control" [(ngModel)]="contact.email" />
+				</div>
+				<div class="form-group">
+					<label for="">Phone *</label>
+					<input type="text" class="form-control" [(ngModel)]="contact.phone" />
+				</div>
+				<div class="form-group">
+					<label for="">Comments *</label>
+					<textarea class="form-control" [(ngModel)]="contact.desc"></textarea>
+				</div>
+
+				<div *ngIf="error" class="error">{{ error }}</div>
+
+				<div class="text-right">
+					<button class="btn btn-primary theme-btn font-weight-bold" (click)="submit()" [disabled]="submitting">Submit</button>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>

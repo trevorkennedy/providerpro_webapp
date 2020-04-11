@@ -1,0 +1,284 @@
+<section class="step-container">
+
+	<!-- Step 0: Lookup/Search -->
+
+	<div class="py-5 theme-bg-primary process-step" [ngClass]="{ 'done': step > 0 }">
+		<div class="container py-lg-5">
+			<div class="searching" *ngIf="searching || lookingup">
+				<pp-loading style="margin: auto;"></pp-loading>
+			</div>
+			<h3 class="mb-3 text-center font-weight-bold section-heading">Credential a Provider</h3>
+			<div class="row pt-5 mb-5">
+
+				<div class="col-12 col-md-6 col-xl-5 offset-xl-1">
+					<div class="card rounded border-0 shadow-lg  mb-5">
+						<div class="card-body p-4">
+							<h5 class="card-title">NPI Lookup</h5>
+							<div class="form-group">
+								<label for="">Provider NPI *</label>
+								<input type="text" class="form-control" [(ngModel)]="provider.npi" (keydown.enter)="lookup()" />
+							</div>
+
+							<div *ngIf="errorLookup" class="error">{{ errorLookup }}</div>
+
+							<div class="text-right">
+								<button class="btn btn-primary theme-btn font-weight-bold" (click)="lookup()" [disabled]="lookingup">Lookup</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-12 col-md-6 col-xl-5 offset-xl-1">
+					<div class="card rounded border-0 shadow-lg  mb-5">
+						<div class="card-body p-4">
+							<h5 class="card-title">Advanced Search</h5>
+							<div class="form-group">
+								<label for="">First Name</label>
+								<input type="text" class="form-control" [(ngModel)]="provider.firstName" (keydown.enter)="search()" />
+							</div>
+							<div class="form-group">
+								<label for="">Last Name</label>
+								<input type="text" class="form-control" [(ngModel)]="provider.lastName" (keydown.enter)="search()" />
+							</div>
+							<!-- <div class="form-group">
+								<label for="">State</label>
+								<input type="text" class="form-control" [(ngModel)]="provider.state" (keydown.enter)="search()" />
+							</div> -->
+
+							<div class="form-group">
+								<label for="">State</label>
+								<select class="form-control" [(ngModel)]="provider.state" (keydown.enter)="search()">
+									<option value="AL">ALABAMA</option>
+									<option value="AK">ALASKA</option>
+									<option value="AZ">ARIZONA</option>
+									<option value="AR">ARKANSAS</option>
+									<option value="CA">CALIFORNIA</option>
+									<option value="CO">COLORADO</option>
+									<option value="CT">CONNECTICUT</option>
+									<option value="DE">DELAWARE</option>
+									<option value="FL">FLORIDA</option>
+									<option value="GA">GEORGIA</option>
+									<option value="HI">HAWAII</option>
+									<option value="ID">IDAHO</option>
+									<option value="IL">ILLINOIS</option>
+									<option value="IN">INDIANA</option>
+									<option value="IA">IOWA</option>
+									<option value="KS">KANSAS</option>
+									<option value="KY">KENTUCKY</option>
+									<option value="LA">LOUISIANA</option>
+									<option value="ME">MAINE</option>
+									<option value="MD">MARYLAND</option>
+									<option value="MA">MASSACHUSETTS</option>
+									<option value="MI">MICHIGAN</option>
+									<option value="MN">MINNESOTA</option>
+									<option value="MS">MISSISSIPPI</option>
+									<option value="MO">MISSOURI</option>
+									<option value="MT">MONTANA</option>
+									<option value="NE">NEBRASKA</option>
+									<option value="NV">NEVADA</option>
+									<option value="NH">NEW HAMPSHIRE</option>
+									<option value="NJ">NEW JERSEY</option>
+									<option value="NM">NEW MEXICO</option>
+									<option value="NY">NEW YORK</option>
+									<option value="NC">NORTH CAROLINA</option>
+									<option value="ND">NORTH DAKOTA</option>
+									<option value="OH">OHIO</option>
+									<option value="OK">OKLAHOMA</option>
+									<option value="OR">OREGON</option>
+									<option value="PA">PENNSYLVANIA</option>
+									<option value="RI">RHODE ISLAND</option>
+									<option value="SC">SOUTH CAROLINA</option>
+									<option value="SD">SOUTH DAKOTA</option>
+									<option value="TN">TENNESSEE</option>
+									<option value="TX">TEXAS</option>
+									<option value="UT">UTAH</option>
+									<option value="VT">VERMONT</option>
+									<option value="VA">VIRGINIA</option>
+									<option value="WA">WASHINGTON</option>
+									<option value="WV">WEST VIRGINIA</option>
+									<option value="WI">WISCONSIN</option>
+									<option value="WY">WYOMING</option>
+								</select>
+							</div>
+
+							<div *ngIf="errorSearch" class="error">{{ errorSearch }}</div>
+
+							<div class="text-right">
+								<button class="btn btn-primary theme-btn font-weight-bold" (click)="search()" [disabled]="searching">Search</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<!-- Step 1: Search Results -->
+
+	<div class="py-5 theme-bg-primary process-step" [ngClass]="{ 'next': step < 1, 'done': step > 1 }">
+		<div class="container py-lg-5">
+			<div class="searching" *ngIf="searching || lookingup">
+				<pp-loading style="margin: auto;"></pp-loading>
+			</div>
+			<h3 class="mb-3 text-center font-weight-bold section-heading">Credential a Provider</h3>
+			<div class="row pt-5 mb-5">
+
+				<div class="card rounded border-0 shadow-lg mb-5" style="flex-grow: 1;">
+					<div class="card-body p-4" style="max-height: 400px; overflow: scroll;">
+						<div class="providers">
+							<div class="row">
+								<div class="col col-4" *ngFor="let doc of this.searchResults">
+									<a (click)="selectDoc(doc)">{{ doc[8].VarCharValue }} {{ doc[6].VarCharValue }} {{ doc[7].VarCharValue }} {{ doc[5].VarCharValue }}</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<!-- Step 2: Review Provider -->
+
+	<div class="py-5 theme-bg-primary process-step" [ngClass]="{ 'next': step < 2, 'done': step > 2 }">
+		<div class="container py-lg-5">
+			<h3 class="mb-3 text-center font-weight-bold section-heading">Review Provider</h3>
+			<div class="row pt-5 mb-5">
+
+				<div class="card rounded border-0 shadow-lg mb-5" *ngIf="selectedProvider" style="flex-grow: 1;">
+					<div class="card-body p-4">
+						<h5 class="card-title">{{ selectedProvider[8].VarCharValue }} {{ selectedProvider[6].VarCharValue }} {{ selectedProvider[7].VarCharValue }} {{ selectedProvider[5].VarCharValue }}</h5>
+
+						<div class="row">
+							<div class="col">
+								<label>Billing Mailing Address</label>
+								<div>{{ selectedProvider[20].VarCharValue }}</div>
+								<div>{{ selectedProvider[21].VarCharValue }}</div>
+								<div>{{ selectedProvider[22].VarCharValue }}, {{ selectedProvider[23].VarCharValue }} {{ selectedProvider[24].VarCharValue }} {{ selectedProvider[25].VarCharValue }}</div>
+								<div style="margin-top: 12px;"><i class="fas fa-phone" style="padding-right: 12px;"></i> {{ selectedProvider[26].VarCharValue }}</div>
+								<div><i class="fas fa-fax" style="padding-right: 12px;"></i> {{ selectedProvider[27].VarCharValue }}</div>
+							</div>
+							<div class="col">
+								<label>Practice Location</label>
+								<div>{{ selectedProvider[28].VarCharValue }}</div>
+								<div>{{ selectedProvider[29].VarCharValue }}</div>
+								<div>{{ selectedProvider[30].VarCharValue }}, {{ selectedProvider[31].VarCharValue }} {{ selectedProvider[32].VarCharValue }} {{ selectedProvider[33].VarCharValue }}</div>
+								<div style="margin-top: 12px;"><i class="fas fa-phone" style="padding-right: 12px;"></i> {{ selectedProvider[34].VarCharValue }}</div>
+								<div><i class="fas fa-fax" style="padding-right: 12px;"></i> {{ selectedProvider[35].VarCharValue }}</div>
+							</div>
+							<div class="col">
+								<label>Provider Info</label>
+								<div>Gender: {{ selectedProvider[41].VarCharValue }}</div>
+								<div>Taxonomy Code: {{ selectedProvider[47].VarCharValue }}</div>
+								<div>License #: {{ selectedProvider[48].VarCharValue }}</div>
+								<div>State: {{ selectedProvider[49].VarCharValue }}</div>
+								<div>Taxonomy Switch: {{ selectedProvider[50].VarCharValue }}</div>
+							</div>
+						</div>
+						<div class="text-right" style="margin-top: 40px;">
+							<button class="btn btn-secondary" style="height: 45px;">Edit</button>
+							<button class="btn btn-primary theme-btn font-weight-bold" (click)="selectInstitution()">Next</button>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<!-- Step 3: Select Institution -->
+
+	<div class="py-5 theme-bg-primary process-step" [ngClass]="{ 'next': step < 3, 'done': step > 3 }">
+		<div class="container py-lg-5">
+			<h3 class="mb-3 text-center font-weight-bold section-heading">Select Facilities</h3>
+			<div class="row pt-5 mb-5">
+
+				<div class="card rounded border-0 shadow-lg mb-5" style="flex-grow: 1;">
+					<div class="card-body p-4">
+						<div class="typeahead-container" *ngIf="!selectedHospital">
+							<input type="text" class="form-control" placeholder="Enter facility name" (input)="searchHospitals($event.target.value)" [(ngModel)]="filter" />
+							<div class="typeahead-results" *ngIf="filteredFacilityResults.length > 0">
+								<div class="typeahead-result" *ngFor="let hospital of filteredFacilityResults" (click)="addFacility(hospital)">
+									<div class="title">{{ hospital.name }}</div>
+									<div class="subtitle">{{ hospital.city }} - {{ hospital.healthSystem }}</div>
+								</div>
+							</div>
+						</div>
+						<div *ngIf="selectedHospital">
+							<h5>{{ selectedHospital.name }}</h5>
+							<div class="subtitle">{{ selectedHospital.city }} - {{ selectedHospital.healthSystem }}</div>
+
+							<div class="providers">
+								<div class="row">
+									<div class="col" [ngClass]="{ 'selected': insuranceProviders.bcbs }">
+										<img src="/assets/logos/bcbs.png" alt="BlueCross BlueShield" (click)="providerClick('bcbs')">
+										<label class="checkmark-container">
+											<input type="checkbox" [(ngModel)]="insuranceProviders.bcbs">
+											<span class="checkmark"></span>
+										</label>
+									</div>
+									<div class="col" [ngClass]="{ 'selected': insuranceProviders.cigna }">
+										<img src="/assets/logos/cigna.png" alt="Cigna" (click)="providerClick('cigna')">
+										<label class="checkmark-container">
+											<input type="checkbox" [(ngModel)]="insuranceProviders.cigna">
+											<span class="checkmark"></span>
+										</label>
+									</div>
+									<div class="col" [ngClass]="{ 'selected': insuranceProviders.aetna }">
+										<img src="/assets/logos/aetna.png" alt="Aetna" (click)="providerClick('aetna')">
+										<label class="checkmark-container">
+											<input type="checkbox" [(ngModel)]="insuranceProviders.aetna">
+											<span class="checkmark"></span>
+										</label>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col" [ngClass]="{ 'selected': insuranceProviders.uhc }">
+										<img src="/assets/logos/uhc.png" alt="UHC" (click)="providerClick('uhc')">
+										<label class="checkmark-container">
+											<input type="checkbox" [(ngModel)]="insuranceProviders.uhc">
+											<span class="checkmark"></span>
+										</label>
+									</div>
+									<div class="col" [ngClass]="{ 'selected': insuranceProviders.neighborhood }">
+										<img src="/assets/logos/neighborhood.png" alt="Neighborhood Health Plan" (click)="providerClick('neighborhood')">
+										<label class="checkmark-container">
+											<input type="checkbox" [(ngModel)]="insuranceProviders.neighborhood">
+											<span class="checkmark"></span>
+										</label>
+									</div>
+									<div class="col" [ngClass]="{ 'selected': insuranceProviders.humana }">
+										<img src="/assets/logos/humana.png" alt="Humana" (click)="providerClick('humana')">
+										<label class="checkmark-container">
+											<input type="checkbox" [(ngModel)]="insuranceProviders.humana">
+											<span class="checkmark"></span>
+										</label>
+									</div>
+								</div>
+							</div>
+							<div class="text-right" style="margin-top: 40px;">
+								<button class="btn btn-primary theme-btn font-weight-bold" (click)="complete()">Submit Credential Request</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<!-- Step 5: Complete -->
+
+	<div class="py-5 theme-bg-primary process-step" [ngClass]="{ 'next': step < 4, 'done': step > 4 }">
+		<div class="container py-lg-5">
+			<h3 class="mb-3 text-center font-weight-bold section-heading">Submission Received!</h3>
+			<div class="row pt-5 mb-5">
+				<pp-checkmark style="margin: auto" *ngIf="step == 4"></pp-checkmark>
+			</div>
+		</div>
+	</div>
+
+
+</section>
